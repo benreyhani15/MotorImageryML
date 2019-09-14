@@ -1,0 +1,3 @@
+# MotorImageryML
+
+In this project, a variety of machine learning algorithms are used to discern between motor imagery of left-hand and foot from EEG signals; these models are: LDA, Linear SVM, RBF-Kernel SVM, Artificial Neural Network, Decision Tree, Logistic Regression, Majority Vote, Random Forest and Logit Boost. Most previous work has relied on linear classifiers for class prediction. In this work, we examine the use of more complex models (including ensemble classifiers) to improve classification accuracies in the 2-class motor imagery BCI paradigm. An elaborate discussion regarding the results and findings of the project can be found in 'classification-2-class.pdf'.
